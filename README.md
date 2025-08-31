@@ -35,7 +35,7 @@ python main.py <Amount> <Base> <Target>
 ```
 Example:
 ```bash
-python main.py **100** USD EUR
+python main.py 100 USD EUR
 ```
 
 ![output_example](currency_converter_example.png)
