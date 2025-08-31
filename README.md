@@ -30,10 +30,12 @@ pip install -r requirements.txt
 ## 👤 Usage
 
 Run the program with:
-
+```bash
 python main.py <Amount> <Base> <Target>
-
+```
 Example:
+```bash
 python main.py **100** **USD** **EUR**
+```bash
 
 ![output_example](currency_converter_example.png)
